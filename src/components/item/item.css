@@ -21,6 +21,13 @@
     transform: scale(1.15);
 }
 
+ul{
+    text-align: center;
+    font-weight: 300;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
 ul>li{
     list-style: none;
+    
 }
