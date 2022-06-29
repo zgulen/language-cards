@@ -7,6 +7,17 @@
     grid-template-areas: "top" "bottom";
     width: 25rem;
     background-color: #F48D29;
+    overflow: hidden;
+}
+
+.bars{
+    height: 41rem;
+    width: 5rem;
+    background-color: #53c1de;
+    position: relative;
+    transform: rotate(-45deg);
+    top: -40rem;
+    left: 10rem;
 }
 
 .language-title{
